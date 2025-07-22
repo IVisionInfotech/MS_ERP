@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/_10sdp"
+    android:paddingTop="@dimen/_4sdp"
+    android:paddingRight="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_3sdp">
+
+    <ImageView
+        android:id="@+id/ivBack"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:src="@drawable/back"
+        app:tint="@color/black" />
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:layout_weight="1"
+        android:backgroundTint="@color/transparent"
+        android:ellipsize="end"
+        android:fontFamily="@font/regular"
+        android:hint="Search medicine and health products"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/textHintColor"
+        android:textSize="14sp"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/ivSpeak"
+        android:layout_width="@dimen/_18sdp"
+        android:layout_height="@dimen/_18sdp"
+        android:src="@drawable/mic"
+        app:tint="@color/textHintColor" />
+
+    <View
+        android:layout_width="@dimen/_12sdp"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/ivSearch"
+        android:layout_width="@dimen/_18sdp"
+        android:layout_height="@dimen/_18sdp"
+        android:src="@drawable/search"
+        app:tint="@color/textHintColor" />
+
+</LinearLayout>

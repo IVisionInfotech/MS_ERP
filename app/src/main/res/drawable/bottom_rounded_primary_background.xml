@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/colorAccentDark"
+    tools:targetApi="lollipop">
+    <item>
+        <shape android:shape="rectangle">
+            <corners
+                android:bottomLeftRadius="@dimen/_30sdp"
+                android:bottomRightRadius="@dimen/_30sdp" />
+            <gradient
+                android:angle="270"
+                android:endColor="@color/colorPrimary"
+                android:startColor="@color/colorPrimaryDark" />
+        </shape>
+    </item>
+    <!--<corners android:radius="@dimen/_20sdp" />-->
+</ripple>

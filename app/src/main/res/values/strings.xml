@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MS ERP</string>
+    <string name="rupee">₹</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="share_text" />
+    <string name="confirmation_logout">Are you sure? You wan\'t to logout</string>
+    <string name="confirmation_price">Are you sure? You want to update price</string>
+    <string name="confirmation_add">Are you sure? You want to add product</string>
+    <string name="confirmation_remove">Are you sure? You want to remove size</string>
+    <string name="confirmation_place_order">Are you sure? You want to place order</string>
+    <string name="confirmation_confirm_order">Are you sure? You want to confirm this order</string>
+    <string name="confirmation_dispatch_order">Are you sure? You want to dispatch this order</string>
+    <string name="confirmation_deliver_order">Are you sure? You want to deliver this order</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="mrp">MRP</string>
+    <string name="shareText">Thank you for inquiry Madhav Steel. \n Please look over the quotation</string>
+</resources>

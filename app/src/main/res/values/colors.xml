@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#ed700d</color>
+    <color name="colorPrimaryDark">#e95816</color>
+    <color name="colorPrimaryLight">#ffd174</color>
+    <color name="colorAccent">#2d4e77</color>
+    <color name="colorAccentDark">#00264b</color>
+    <color name="colorAccentLight">#f1ffff</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="blackTransEE">#EE000000</color>
+    <color name="blackTrans80">#80000000</color>
+    <color name="blackTrans50">#50000000</color>
+    <color name="black">#000000</color>
+    <color name="darkBlack">#1A0101</color>
+    <color name="lightBlack">#404041</color>
+    <color name="blackGray">#585858</color>
+    <color name="darkGray">#888484</color>
+    <color name="gray">#9b9b9b</color>
+    <color name="darkSilver">#A9A9A9</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="whiteGray">#EEEEEE</color>
+    <color name="offWhite">#F8F8F8</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteTransparent">#CCFFFFFF</color>
+    <color name="whiteTransparent40">#40FFFFFF</color>
+    <color name="whiteTransparent30">#30FFFFFF</color>
+
+    <color name="layoutBackground">#f7f7f7</color>
+    <color name="viewBackground">#EEEEEE</color>
+    <!--    <color name="unreadBackground">#E6F2FE</color>-->
+    <color name="unreadBackground">#e8eaf6</color>
+    <color name="disableTextColor">#CBC6C6</color>
+    <color name="disableIconColor">#D5D4D3</color>
+    <color name="textHintColor">#707070</color>
+    <color name="textColor">#404041</color>
+    <color name="prescriptionBG">#e5f0f9</color>
+    <color name="discountColor">#fb6c67</color>
+    <color name="medicineLightColor">#e6fade</color>
+    <color name="medicineColor">#81bd7c</color>
+    <color name="healthLightColor">#fff2f8</color>
+    <color name="healthColor">#fe636e</color>
+    <color name="labLightColor">#cef2ee</color>
+    <color name="labColor">#60d0c4</color>
+    <color name="green">#17871B</color>
+    <color name="lightGreen">#f0ffdd</color>
+    <color name="darkGreen">#007323</color>
+    <color name="red">#DC0000</color>
+    <color name="darkRed">#A70B00</color>
+    <color name="yellow">#FFCB2F</color>
+    <color name="darkYellow">#E4AD07</color>
+    <color name="orange">#FE9526</color>
+    <color name="darkOrange">#DF7300</color>
+
+    <color name="pending">#FDB632</color>
+    <color name="confirm">#801638</color>
+    <color name="dispatch">#027878</color>
+    <color name="deliver">#097054</color>
+
+    <color name="colorOne">#e47269</color>
+    <color name="colorOneLight">#ffa397</color>
+    <color name="colorTwo">#6b76e8</color>
+    <color name="colorTwoLight">#a0a5ff</color>
+    <color name="colorThree">#f0a255</color>
+    <color name="colorThreeLight">#ffd384</color>
+    <color name="colorFour">#29aba5</color>
+    <color name="colorFourLight">#69cccc</color>
+    <color name="colorFive">#3bb58b</color>
+    <color name="colorFiveLight">#76ccbb</color>
+    <color name="colorSix">#4e81e5</color>
+    <color name="colorSixLight">#8ab0cc</color>
+
+    <color name="boxOne">#e6fade</color>
+    <color name="boxOneDark">#c3dbc1</color>
+    <color name="boxTwo">#cef2ee</color>
+    <color name="boxTwoDark">#c0ddd9</color>
+    <color name="boxThree">#def8f7</color>
+    <color name="boxThreeDark">#bfd8dc</color>
+    <color name="boxFour">#f6f7e5</color>
+    <color name="boxFourDark">#dcdac4</color>
+    <color name="boxFive">#ffffff</color>
+    <color name="boxFiveDark">#dcd7c7</color>
+    <color name="boxSix">#e7eff1</color>
+    <color name="boxSixDark">#bfc7d3</color>
+    <color name="boxSeven">#ffeaef</color>
+    <color name="boxSevenDark">#dac0c0</color>
+    <color name="boxEight">#fff2f8</color>
+    <color name="boxEightDark">#e8d0d8</color>
+    <color name="boxNine">#e6fade</color>
+    <color name="boxNineDark">#c3dcbf</color>
+    <color name="boxTen">#def8f7</color>
+    <color name="boxTenDark">#c1d8da</color>
+    <color name="boxEleven">#f6f7e5</color>
+    <color name="boxElevenDark">#dbd9c0</color>
+    <color name="boxTwelve">#cdf3ee</color>
+    <color name="boxTwelveDark">#c0ddd9</color>
+</resources>
